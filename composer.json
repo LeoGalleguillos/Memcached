@@ -1,4 +1,5 @@
 {
+    "abandoned": "monthly-basis/memcached",
     "autoload": {
         "psr-4": {
             "LeoGalleguillos\\Memcached\\": "src/",
